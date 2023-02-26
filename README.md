@@ -12,7 +12,7 @@ Using Natural language processing and deep learning this model can recognise com
 
 
 ## Notebook
-Notebook.ipynb contains all the code from importing the required libraries -> Importing Data -> Data Preprocessing -> Training the Model.
+The .ipynb file contains all the code from importing the required libraries -> Importing Data -> Data Preprocessing -> Training the Model.
 
 
 ## Dataset
