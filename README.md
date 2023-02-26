@@ -9,7 +9,8 @@ Using Natural language processing and deep learning this model can recognise com
 ## How?
 
 
-
+## Aim
+The aim is to create a model which predicts a probability of each type of toxicity for each comment.
 
 ## Notebook
 The .ipynb file contains all the code from importing the required libraries -> Importing Data -> Data Preprocessing -> Training the Model.
@@ -28,4 +29,4 @@ The types of toxicity are:
 'insult'
 'identity_hate'}**
 
-The aim is to create a model which predicts a probability of each type of toxicity for each comment.
+
